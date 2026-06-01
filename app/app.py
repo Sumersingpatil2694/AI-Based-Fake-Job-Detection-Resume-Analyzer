@@ -584,7 +584,7 @@ with st.sidebar:
     </div>""", unsafe_allow_html=True)
 
 
-#  PAGE 1 – HOME
+# PAGE 1 – HOME
 if page == "🏠  Home":
     st.markdown("""
     <div style='text-align:center; padding:20px 0 10px'>
