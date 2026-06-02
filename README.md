@@ -828,8 +828,6 @@ To request a feature:
 ### Project Links
 
 - **Repository**: [https://github.com/yourusername/fake-job-detection](https://github.com/Sumersingpatil2694/Fake-Job-Detection-And-Hiring-Market-Analysis)
-- **Issues**: [Report a Bug](https://github.com/yourusername/fake-job-detection/issues)
-- **Discussions**: [Join Discussion](https://github.com/yourusername/fake-job-detection/discussions)
 - **Wiki**: [Documentation](https://github.com/yourusername/fake-job-detection/wiki)
 
 ---
@@ -861,8 +859,6 @@ This project was inspired by:
 - Real-world hiring fraud cases on LinkedIn / Indeed
 - FBI IC3 Annual Reports on employment scams
 - Glassdoor fraud-prevention research
-- Anti-money-laundering ML systems
-
 ---
 
 ## ❓ FAQ
