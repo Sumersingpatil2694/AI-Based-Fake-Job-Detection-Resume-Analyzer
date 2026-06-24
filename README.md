@@ -10,7 +10,7 @@
 
 **An End-to-End SQL Analytics + Machine Learning Pipeline that detects fraudulent job postings and analyzes the global hiring market**
 
-[Live Demo](https://fake-job-detection-and-hiring-market-analysis-awvywvr4samzscx5.streamlit.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots)
+[Live Demo](https://fake-job-detection-and-hiring-market-analysis-2026.streamlit.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots)
 
 </div>
 
